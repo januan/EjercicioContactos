@@ -71,7 +71,7 @@ public class ConfirmarContacto extends AppCompatActivity {
         intent.putExtra(getResources().getString(R.string.pfecDia), tv_fecDia.getText().toString());
         intent.putExtra(getResources().getString(R.string.pfecMes), tv_fecMes.getText().toString());
         intent.putExtra(getResources().getString(R.string.pfecAnyo), tv_fecAnyo.getText().toString());
-        intent.putExtra(getResources().getString(R.string.pdesc), tv_fecAnyo.getText().toString());
+        intent.putExtra(getResources().getString(R.string.pdesc), tv_descripcion.getText().toString());
         startActivity(intent);
 
 
