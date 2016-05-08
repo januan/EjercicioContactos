@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Contactos</string>
+    <string name="pideNombre">Nombre Completo</string>
+    <string name="pideFecha">Selecciona fecha nacimiento</string>
+    <string name="pideTelefono">Teléfono</string>
+    <string name="pideEmail">Dirección de email</string>
+    <string name="pideDescripcion">Descripción del Contacto</string>
+    <string name="titleEditContact">Introducir Contacto</string>
+    <string name="btSiguiente">Siguiente</string>
+    <string name="titleConfirmarContactos">Confirmar Contacto</string>
+    <string name="btEditarContacto">Editar Datos</string>
+    <string name="txtNombre">Nombre</string>
+
+    <string name="pnom">par_nombre</string>
+    <string name="ptel">par_telefono</string>
+    <string name="pdesc">par_descripcion</string>
+    <string name="pmail">par_email</string>
+    <string name="pfecDia">par_fechaDia</string>
+    <string name="pfecMes">par_fechaMes</string>
+    <string name="pfecAnyo">par_fechaAnyo</string>
+
+    <string name="tel">Tel.:</string>
+    <string name="fnac">Fecha nacimiento:</string>
+    <string name="email">Email:</string>
+    <string name="desc">Descripción:</string>
+
+    <string name="separa_fecha">/</string>
+
+</resources>
